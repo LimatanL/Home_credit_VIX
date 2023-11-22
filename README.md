@@ -3,7 +3,8 @@
 # Latar Belakang Tugas
 Home Credit saat ini sedang menggunakan berbagai macam metode statistik dan Machine Learning untuk membuat prediksi skor kredit. Sekarang, kami meminta anda untuk membuka potensi maksimal dari data kami. Dengan melakukannya, kita dapat memastikan pelanggan yang mampu melakukan pelunasan tidak ditolak ketika melakukan pengajuan pinjaman, dan pinjaman datap diberikan dengan principal, maturity, dan repayment calendar yang akan memotivsi pelanggan untuk sukses. Evaluasi akan dilakukan dengan mengecek seberapa dalam pemahaman analisa yang anda kerjakan. Sebagai catatan, anda perlu menggunakan setidaknya 2 model Machine Learning dimana salah satunya adalah Logistic Regression. Setelah itu, buatlah slide presentasi yang mengandung analisa hasil pemodelan secara end-to-end beserta rekomendasi bisnisnya (maksimal 10 halaman)
 
-# 1. Download Dataset yang dibutuhkan. [https://www.kaggle.com/competitions/home-credit-default-risk]
+# Tahapan Pengerjaan
+1. Download Dataset yang dibutuhkan. [https://www.kaggle.com/competitions/home-credit-default-risk]
 
 2. Pelajari konteks masalah dari sumber eksternal untuk meningkatkan Subject Matter Knowledge.
 
@@ -26,3 +27,10 @@ Home Credit saat ini sedang menggunakan berbagai macam metode statistik dan Mach
 11. Push file .ipynb mu ke dalam github.
 
 12. Buat file presentasi untuk menjelaskan pekerjaan yang telah dilakukan dan cantumkan link repo github di dalam ppt nya
+
+# Proses pengerjaan yang dilakukan diekspektasikan meliputi 
+1. Problem Research
+2. Data Pre-Processing
+3. Data Visualization and Business Insight
+4. Machine Learning Implementation and Evaluation
+5. Business Recommendation
